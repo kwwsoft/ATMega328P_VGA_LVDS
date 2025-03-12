@@ -1,0 +1,10 @@
+Buttons Definition:
+
+KO---Switch
+RED---Standby light
+GRN---Work light
+GND---Earth Wire, 
+K1--- + 
+K2--- -
+AUTO---Automatic
+MENU---Menu
